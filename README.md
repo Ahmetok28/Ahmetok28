@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmet
 =======================
 <img src="https://thumbs.gfycat.com/AccurateSelfassuredBarb-size_restricted.gif" style="width:100%; height:100%;">
-Software Developer
+Software Developer With .NET
 -----------------
 
 
