@@ -1,14 +1,14 @@
 Hi 👋 My name is Ahmet
 =======================
 <img src="https://thumbs.gfycat.com/AccurateSelfassuredBarb-size_restricted.gif" style="width:100%; height:100%;">
-Game Developer
+Software Developer
 -----------------
 
-I have been dealing with Unity 2D - 3D for about 1-1.5 years and developing projects.
+
 
 * 🌍  I'm based in Bursa/Turkey
 * ✉️  You can contact me at [ahmetok2861@gmail.com](mailto:ahmetok2861@gmail.com)
-* 🧠  I'm still learning unity and improving myself.
+
 
 ### Skills
 
